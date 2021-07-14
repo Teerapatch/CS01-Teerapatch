@@ -1,2 +1,10 @@
-A = int(input("Enter your birthday number : "))
-print(A)
+A = 100
+B = 5
+C = A + 5
+print(C)
+C = A - 5
+print(C)
+C = A * 5
+print(C)
+C = A / 5
+print(C)
