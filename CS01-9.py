@@ -1,2 +1,2 @@
-for i in "Teerapatch Baisod" :
+for i in "Teerapatch" :
     print(i)
